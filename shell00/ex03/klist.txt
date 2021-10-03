@@ -1,0 +1,5 @@
+Credentials cache: API:00F2D957-3D39-4439-8748-8EE2B40A195B
+        Principal: fefilipp@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct  2 17:54:09 2021  Oct  3 03:54:09 2021  krbtgt/42ROMA.IT@42ROMA.IT
